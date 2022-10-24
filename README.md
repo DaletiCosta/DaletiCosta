@@ -7,11 +7,12 @@
 
 <div align="center">
   <a href="https://github.com/DaletiCosta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaletiCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaletiCosta&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=DaletiCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaletiCosta&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-    
+ ## Linguagem:    
   <img align="center" alt="Rafa-Js" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
   </div>
       
