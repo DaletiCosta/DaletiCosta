@@ -1,8 +1,6 @@
 # 👩🏻‍💻 Daleti Costa
 
-**`🧐 Qualidade de Software`**
-
-Me chamo Daleti, tenho 32 anos e sou natural de São Paulo. Concluí o bacharelado em Análise e Desenvolvimento de Sistemas na Estácio. Estou em transição de carreira e me descobri na tecnologia.
+Me chamo Daleti,nascida em 1992 e sou natural de São Paulo. Concluí o bacharelado em Análise e Desenvolvimento de Sistemas na Estácio. Estou em transição de carreira e me descobri na tecnologia.
 
 
 
