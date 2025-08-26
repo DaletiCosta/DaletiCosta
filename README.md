@@ -1,6 +1,10 @@
 # 👩🏻‍💻 Daleti Costa
 
-Me chamo Daleti,nascida em 1992 e sou natural de São Paulo. Concluí o bacharelado em Análise e Desenvolvimento de Sistemas na Estácio. Estou em transição de carreira e me descobri na tecnologia.
+Me chamo Daleti, nascida em 1992 e sou natural de São Paulo. Concluí o bacharelado em Análise e Desenvolvimento de Sistemas na Estácio. Estou em transição de carreira e me descobrindo na tecnologia.
+
+Aqui no GitHub compartilho um pouco de tudo o que aprendi desde que iniciei minha jornada na área de tecnologia, desde conceitos básicos até projetos mais avançados. Não quero apagar minha trajetória, mas mostrar cada passo da minha evolução, incluindo aprendizado em bancos de dados, programação e, atualmente, minha dedicação no curso de Engenharia de Dados.
+
+Meu objetivo é crescer profissionalmente, contribuir com soluções inovadoras e conquistar uma oportunidade em uma empresa multinacional, aplicando na prática todo o conhecimento que venho construindo.
 
 
 
